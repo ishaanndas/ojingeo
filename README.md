@@ -1,16 +1,22 @@
-# ojingeo
-Winners @ Cepheus'22 Hack by IIT Goa <br />
-[Doc](https://drive.google.com/file/d/1zNy_sa1xCeEg76hLX3Wy_kuV4L99jxQ4/view?usp=sharing) <br />
-[Ojingeo](https://ojingeo.ndureja.com) is a squid game management application. It features 2 portals, one for the frontman to manage players and works i.e. to eliminate, edit or create new entries and switch to the next game.</br>
-The other portal is for the VIPs for betting on the players. It also features a completely functional bitcoin payment mechanism through which the VIPs can make payments.  
-The website was initially hosted through onion routing i.e. only accessible through dark web to preserve the anonymity of the VIPs.
-<br /><br />
-Testing Credentials- <br/>
-    Access Code: dx3<br/>
+# Ojingeo
+At an online hackathon, we had to design and develop a web application to manage the fictional “Squid Game” based on the Netflix series. We were required to build two portals - An admin portal for the “Frontman”, and a portal for the “VIPs” to remotely enjoy the games.
+
+## Live Site <a href="https://ojingeo.ndureja.com/" target="_blank">Here</a>.
+
+### View project on Behance <a href="https://www.behance.net/gallery/135266521/Ojingeo-Squid-Game-Management-Web-App" target="_blank">Here</a>.
+ 
+## Testing Credentials 
+
+    Access Code: dx3
+    
     Frontman: <br/>
          Username: frontman<br/>
          Password: admin<br/>
+         
     VIP: <br />
          Username: vipvip <br/>
          Password: vipvip <br />
+         
 
+
+![Frame 1](https://user-images.githubusercontent.com/44090243/169800380-dd57ef97-bef8-4368-afc2-7c57eb1dd2dd.png)
